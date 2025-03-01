@@ -25,14 +25,14 @@ const Encryption = () => {
             <div className="flex flex-col items-center justify-center translate-y-[-50px] absolute z-[20] w-auto h-auto">
                 <div className="flex flex-col items-center group cursor-pointer w-auto h-auto">
                     <Image
-                        src="/LockTop.png"
+                        src="./LockTop.png"
                         alt="LockTop"
                         width={50}
                         height={50}
                         className="translate-y-5 translate-all duration-200 group-hover:translate-y-11"
                     />
                     <Image
-                        src="/LockMain.png"
+                        src="./LockMain.png"
                         alt="Lock Main"
                         width={70}
                         height={70}
@@ -50,7 +50,7 @@ const Encryption = () => {
             </div>
             <div className="w-ful flex items-start justify-center absolute">
                 <video
-                    src="/encryption.webm"
+                    src="./encryption.webm"
                     loop
                     muted
                     autoPlay
