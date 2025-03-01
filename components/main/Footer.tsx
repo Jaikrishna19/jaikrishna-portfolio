@@ -1,7 +1,5 @@
 import React from 'react'
-import { FaYoutube } from 'react-icons/fa';
 import {
-    RxDiscordLogo,
     RxGithubLogo,
     RxLinkedinLogo,
     RxInstagramLogo,

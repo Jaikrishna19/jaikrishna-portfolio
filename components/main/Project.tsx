@@ -9,17 +9,17 @@ const Project = () => {
             </h1>
             <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
                 <ProjectCard
-                    src='./SpaceWebsite.png'
+                    src='/SpaceWebsite.png'
                     title='Jaikrishna Portfolio'
                     description='This is my portfolio website where I showcase my skills and projects'
                 />
                 <ProjectCard
-                    src='./NextWebsite.png'
+                    src='/NextWebsite.png'
                     title='Website'
                     description='Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.'
                 />
                 <ProjectCard
-                    src='./CardImage.png'
+                    src='/CardImage.png'
                     title='Website'
                     description='Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.'
                 />
